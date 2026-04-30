@@ -9,6 +9,7 @@ Documentación inicial
 - `README.md`: documentación básica del proyecto.
 ## Nota de verificación
 Este cambio se ha realizado desde una copia clonada del repositorio.
+Segunda mejora funcional en rama feature
 
 Nueva mejora funcional en desarrollo
 
