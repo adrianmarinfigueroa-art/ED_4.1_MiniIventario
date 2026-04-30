@@ -10,3 +10,5 @@ Documentación inicial
 ## Nota de verificación
 Este cambio se ha realizado desde una copia clonada del repositorio.
 
+Nueva mejora funcional en desarrollo
+
