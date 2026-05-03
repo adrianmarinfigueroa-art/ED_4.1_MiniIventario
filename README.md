@@ -18,3 +18,6 @@ Nueva mejora funcional en desarrollo
 2. Selecciona una opción del menú.
 3. Puedes añadir productos y listarlos por pantalla.
 4. El proyecto está pensado para practicar estructuras básicas y control de versiones.
+
+## Ejemplo de uso
+Ejecuta el programa y añade varios productos para comprobar su funcionamiento.
